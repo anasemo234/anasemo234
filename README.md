@@ -1,5 +1,8 @@
  ## What is up ✌🏾
+ 
  ![](https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif)
+ 
+ 
 I am working on a project right now using an API to get random quotes. Will also be working on other projects in the near future. I am currently a software engineer attending General Assembly's Software Engineer Remote program with some skills under my belt and many more to come!
 
 * 💻 I'm spending some time learning JavaScript and React
