@@ -1,8 +1,8 @@
  ## What is up ✌🏾
  
- <div id="header" align="center">
+<!--  <div id="header" align="center">
   <img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif"/>
-</div>
+</div> -->
  
  
 **I am working on a project right now using an API to get random quotes. Will also be working on other projects in the near future. I am currently a software engineer attending General Assembly's Software Engineer Remote program with some skills under my belt and many more to come! I love working on projects that require critical thinking and being creative, and enjoy collaborating with others as well to solve those problems.**
