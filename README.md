@@ -38,8 +38,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anasemo234&show_icons=true)  
 
-                                                                                                                                
-                                                                                                                                - name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
 
 
