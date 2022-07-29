@@ -10,7 +10,7 @@
 * 💻 **I'm spending some time learning JavaScript and React**
 * ⚽️ **Away from my desk I am playing soccer or cooking** 🍝.
 
-- 🔭 ***I’m currently working on building a full-stack application using Node/Express/MongoDb!!*** 
+- 🔭 ***I’m currently working on building a full-stack application React and Ruby on Rails!!*** 
 
 # Skills
  <div>
