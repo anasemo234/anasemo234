@@ -5,7 +5,7 @@
 </div> -->
  
  
-**I am working on a project right now using Mongoose MongoDB and Node.JS. Will also be working on other projects in the near future. I am currently a software engineer attending General Assembly's Software Engineer Remote program with some skills under my belt and many more to come! I love working on projects that require critical thinking and being creative, and enjoy collaborating with others as well to solve those problems.**
+** I graduated as a software engineer at General Assembly's Software Engineer Remote program with some skills under my belt and many more to come! I love working on projects that require critical thinking and being creative, and enjoy collaborating with others as well to solve those problems. Will also be working on other projects in the near future.**
 
 * 💻 **I'm spending some time learning JavaScript and React**
 * ⚽️ **Away from my desk I am playing soccer or cooking** 🍝.
