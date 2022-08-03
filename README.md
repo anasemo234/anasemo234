@@ -7,7 +7,7 @@
  
 **My name is Anasemos, I completed a bootcamp at General Assembly as a software engineer with some skills under my belt and many more to come! I love  working on projects that require critical thinking and being creative, and enjoy collaborating with others as well to solve problems. Will also be working on other projects in the near future.**
 
-* 💻 **I'm spending some time learning JavaScript and React**
+* 💻 **I'm spending some time learning Ruby on Rails and React**
 * ⚽️ **Away from my desk I am playing soccer or cooking** 🍝.
 
 - 🔭 ***I’m currently working on building a full-stack application React and Ruby on Rails!!*** 
