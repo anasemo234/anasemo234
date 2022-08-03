@@ -5,7 +5,7 @@
 </div> -->
  
  
-**I graduated as a software engineer at General Assembly's Software Engineer Remote program with some skills under my belt and many more to come! I love  working on projects that require critical thinking and being creative, and enjoy collaborating with others as well to solve those problems. Will also be working on other projects in the near future.**
+**My name is Anasemos, I completed a bootcamp at General Assembly as a software engineer with some skills under my belt and many more to come! I love  working on projects that require critical thinking and being creative, and enjoy collaborating with others as well to solve problems. Will also be working on other projects in the near future.**
 
 * 💻 **I'm spending some time learning JavaScript and React**
 * ⚽️ **Away from my desk I am playing soccer or cooking** 🍝.
